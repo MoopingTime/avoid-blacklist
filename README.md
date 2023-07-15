@@ -1,3 +1,3 @@
-# avoid-blacklist
+# avoid-blacklist-profile
 This profile will avoid blacklist (Unable To Verify App) for Scarlet, ESign,...
 Only work when you are not blacklisted.
